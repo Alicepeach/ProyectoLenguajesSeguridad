@@ -1,0 +1,25 @@
+.fondoFooter{
+	background-color:#939393;
+}
+.colorLetras{
+	text-align:left;
+	color: white;
+	font-size: 35px;
+}
+.colorLetras1{
+	font-style: italic;
+	text-align:left;
+	color: white;
+	font-size: 49px;
+}
+.colorLetras2{
+	text-align:center;
+	color: white;
+	font-size: 30px;
+}
+.colorLetras3{
+	font-style:italic;
+	text-align:center;
+	color: white;
+	font-size: 25px;
+}
